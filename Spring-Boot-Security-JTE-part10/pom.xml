@@ -45,12 +45,12 @@
 		<dependency>
 			<groupId>gg.jte</groupId>
 			<artifactId>jte-spring-boot-starter-3</artifactId>
-			<version>3.1.16</version>
+			<version>3.2.1</version>
 		</dependency>
 		<dependency>
 		    <groupId>gg.jte</groupId>
 		    <artifactId>jte</artifactId>
-		    <version>3.1.16</version>
+		    <version>3.2.1</version>
 		</dependency>
 
 		<dependency>
@@ -86,7 +86,7 @@
 			<plugin>
 				<groupId>gg.jte</groupId>
 				<artifactId>jte-maven-plugin</artifactId>
-				<version>3.1.16</version>
+				<version>3.2.1</version>
 				<executions>
 					<execution>
 						<id>jte-generate</id>
