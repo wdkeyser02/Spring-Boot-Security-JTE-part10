@@ -23,7 +23,6 @@ public class HomeController {
             model.addAttribute("roles", "");
         }
     	model.addAttribute("userName", userName);
-    	
         return "index";
     }
 
